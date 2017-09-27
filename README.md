@@ -1,5 +1,5 @@
 # Ingredient-Sharer
-A web app for sharing ingredients with neighbors.
+A web app for sharing ingredients with neighbors. Created as a Software Engineering class project.
 
 ## 0. Index
 
